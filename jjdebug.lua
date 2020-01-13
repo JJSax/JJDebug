@@ -1,3 +1,5 @@
+-- version 0.5.0
+
 jjdebug = {
 	__gc = function(self)
 		print("destroying self: " .. self.name)
